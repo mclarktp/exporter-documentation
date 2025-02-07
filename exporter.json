@@ -1,7 +1,7 @@
 {
   "id": "io.supernova.documentation-main",
-  "name": "Default Documentation",
-  "description": "Default customizable exporter for design system documentation",
+  "name": "New TP Docs",
+  "description": "New Trustpilot docs",
   "author": "Supernova",
   "organization": "Supernova",
   "source_dir": "src",
